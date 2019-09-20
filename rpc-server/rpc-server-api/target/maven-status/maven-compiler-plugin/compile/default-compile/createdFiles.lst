@@ -1,0 +1,5 @@
+com\reign\request\RpcRequest.class
+com\reign\interfaces\OrderService.class
+com\reign\model\Order.class
+com\reign\model\User.class
+com\reign\interfaces\UserService.class
